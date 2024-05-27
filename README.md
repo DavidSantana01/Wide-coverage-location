@@ -1,8 +1,8 @@
 <h1>Wide coverage location</h1>
 <br>
-<p>Projeto rede de coberetura telefone celulares</p>
+<p>Projeto rede de cobertura de celulares</p>
 <div>
-    <img src="." alt="Foto-WideLocation-website">
+    <img src="./img/Wide Location.png" alt="Foto-WideLocation-website">
 </div>
 <br>
 <h2>Tecnologias usadas</h2>
